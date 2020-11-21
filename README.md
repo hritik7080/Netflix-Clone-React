@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Check out the hosted webApp [here](https://netflix-clone-fc09b.web.app/)
+Here am using Firebase hosting!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
